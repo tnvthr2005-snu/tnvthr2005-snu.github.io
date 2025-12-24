@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# MMPB
+# Math Speech
 **짧은 한 줄 소개** — 예: *Multimodal Something for Something.*
 
 ---
