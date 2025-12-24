@@ -10,7 +10,8 @@ title: Home
 
 ## Overview
 ### 1. 샘플수 : 총 문장 수 
- - 31336개 
+ - 31336개
+   
 
 ### 2. 강의과목비율
 
@@ -55,6 +56,7 @@ title: Home
 | Shannon Entropy (bits) | **5.8024** | 3.7460 | 5.2485 | **5.8944** |
 | Normalized Entropy | 0.5798 | **0.6342** | 0.5993 | **0.5260** |
 | avg unique tokens / equation | 2.1930 | 1.0805 | — | — |
+
 
 ## Datasat Links
 - [MathBridge2 (Hugging Face)](https://huggingface.co/datasets/delay1/MathBridge2/tree/main)
