@@ -57,7 +57,8 @@ Analysis            6
 ![result figure](assets/result.png)
 
 ## Links
-- Dataset: https://huggingface.co/datasets/delay1/MathBridge2/tree/main
+- **Dataset**: [MathBridge2 (Hugging Face)](https://huggingface.co/datasets/delay1/MathBridge2/tree/main)
+
 
 ## Team
 - Name1 (Affiliation)
