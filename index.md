@@ -15,6 +15,8 @@ title: Home
 
 ### 2. 강의과목비율
 
+![결과 요약 그림2](assets/images/result2.png)
+
 | Field | Count |
 |------|------:|
 | Calculus | 338 |
@@ -27,6 +29,8 @@ title: Home
 
 
 ### 3. 일반 텍스트 대비 수식이 차지하는 비율
+
+![결과 요약 그림](assets/images/result1.png)
 
 | Field | Count |
 |---|---:|
