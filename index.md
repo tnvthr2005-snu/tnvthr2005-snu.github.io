@@ -34,6 +34,18 @@ Analysis            6
 가장 긴 라인: 2,417 토큰
 가장 짧은 라인: 4토큰
 
+## Quantitative Analysis Results
+
+| Metric | Symbol | Operator | Combined (Symbol+Operator) | Structural Pattern Diversity |
+|------|--------|----------|-----------------------------|-------------------------------|
+| total tokens | 81,790 | 40,925 | **230,211** | 31,336 |
+| unique types | 1,030 | 60 | 433 | **2,362** |
+| TTR | 0.0126 | 0.0015 | **0.00188** | **0.0754** |
+| Shannon Entropy (bits) | **5.8024** | 3.7460 | 5.2485 | **5.8944** |
+| Normalized Entropy | 0.5798 | **0.6342** | 0.5993 | **0.5260** |
+| avg unique tokens / equation | 2.1930 | 1.0805 | — | — |
+
+
 ## Method
 - Key idea 1
 - Key idea 2
