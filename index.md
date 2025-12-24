@@ -13,28 +13,28 @@ title: Home
  - 31336개 
 
 ### 2. 강의과목비율
-Field
-Calculus          338
-Algebra           218
-Linear Algebra      9
-Geometry            3
-Economics           2
-Statistics          2
-Analysis            6
+- Field
+- Calculus          338
+- Algebra           218
+- Linear Algebra      9
+- Geometry            3
+- Economics           2
+- Statistics          2
+- Analysis            6
 
 ### 3. 일반 텍스트 대비 수식이 차지하는 비율
-총 분석된 단어 수 (context + spoken):  1,035,321개
-총 spoken (수식) 단어 수: 112,880개
-일반 텍스트 대비 spoken (수식)이 차지하는 비율: 10.90%
+- 총 분석된 단어 수 (context + spoken):  1,035,321개
+- 총 spoken (수식) 단어 수: 112,880개
+- 일반 텍스트 대비 spoken (수식)이 차지하는 비율: 10.90%
 
 ### 4. 텍스트 전체 길이
-총 토큰 수: 4,545,332개
-총 라인 수: 31,336개
-라인 당 평균 토큰 수: 약 145.08 토큰
-가장 긴 라인: 2,417 토큰
-가장 짧은 라인: 4토큰
+- 총 토큰 수: 4,545,332개
+- 총 라인 수: 31,336개
+- 라인 당 평균 토큰 수: 약 145.08 토큰
+- 가장 긴 라인: 2,417 토큰
+- 가장 짧은 라인: 4토큰
 
-### Quantitative Analysis Results
+### 5. 수식 텍스트 다양성 지표
 
 | Metric | Symbol | Operator | Combined (Symbol+Operator) | Structural Pattern Diversity |
 |------|--------|----------|-----------------------------|-------------------------------|
@@ -47,11 +47,3 @@ Analysis            6
 
 ## Datasat Links
 - [MathBridge2 (Hugging Face)](https://huggingface.co/datasets/delay1/MathBridge2/tree/main)
-
-
-## Team
-- Name1 (Affiliation)
-- Name2 (Affiliation)
-
-## Contact
-email@example.com
