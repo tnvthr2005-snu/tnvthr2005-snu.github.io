@@ -45,19 +45,8 @@ Analysis            6
 | Normalized Entropy | 0.5798 | **0.6342** | 0.5993 | **0.5260** |
 | avg unique tokens / equation | 2.1930 | 1.0805 | — | — |
 
-
-## Method
-- Key idea 1
-- Key idea 2
-- Key idea 3
-
-## Results
-간단한 표/그림(이미지)을 넣고 싶다면:
-
-![result figure](assets/result.png)
-
-## Links
-- **Dataset**: [MathBridge2 (Hugging Face)](https://huggingface.co/datasets/delay1/MathBridge2/tree/main)
+## Datasat Links
+- [MathBridge2 (Hugging Face)](https://huggingface.co/datasets/delay1/MathBridge2/tree/main)
 
 
 ## Team
